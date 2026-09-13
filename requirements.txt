@@ -1,0 +1,9 @@
+requests>=2.31.0
+flask>=3.0.0
+flask-api>=3.0.5
+numpy>=1.26.0
+pandas>=2.0.0
+python-dotenv>=1.0.0
+python-binance>=1.0.17
+mysql-connector-python>=8.2.0
+uvicorn>=0.24.0
